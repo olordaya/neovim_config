@@ -1,0 +1,1 @@
+{"cmd": "--- vim.g.magma_image_provider = \"kitty\"", "cmd_opts": "", "terminal": "nvimterm"}
